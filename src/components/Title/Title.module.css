@@ -1,0 +1,9 @@
+.Title {
+    font-family: "Pacifico", cursive;
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: #fdc85e; 
+    color: #333;
+    padding: 1rem 2rem;
+    margin: 0;
+}
